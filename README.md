@@ -12,13 +12,13 @@ Below is an example of the process:
    ![Input Map](/maps/FloorPlan2.png)
 
 2. **Generated Point Cloud:**
-   ![Point Cloud](/recordings/LIDARDisplay2024-08-1719-55-18-ezgif.com-video-to-gif-converter.gif")
+   ![Point Cloud](/recordings/LIDARDisplay2024-08-1719-55-18-ezgif.com-video-to-gif-converter.gif)
 
 3. **Edges Detected on Point Cloud:**
-   ![Edges](/recordings/LIDARDisplay2024-08-1719-58-30-ezgif.com-video-to-gif-converter.gif")
+   ![Edges](/recordings/LIDARDisplay2024-08-1719-58-30-ezgif.com-video-to-gif-converter.gif)
 
 4. **Reconstructed Environment:**
-   ![Reconstructed Map](/recordings/LIDARDisplay2024-08-1720-00-04-ezgif.com-video-to-gif-converter.gif")
+   ![Reconstructed Map](/recordings/LIDARDisplay2024-08-1720-00-04-ezgif.com-video-to-gif-converter.gif)
 
 ## Features
 
