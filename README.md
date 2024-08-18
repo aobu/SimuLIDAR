@@ -9,16 +9,20 @@ SimuLIDAR is a LIDAR scanner simulation tool developed with OpenCV. It allows us
 Below is an example of the process:
 
 1. **Input Map:**
-   ![Input Map](/maps/FloorPlan2.png)
+
+   <img src="/maps/FloorPlan2.png" alt="Input Map" width="450"/>
 
 2. **Generated Point Cloud:**
-   ![Point Cloud](/recordings/LIDARDisplay2024-08-1719-55-18-ezgif.com-video-to-gif-converter.gif)
+
+   <img src="/recordings/LIDARDisplay2024-08-1719-55-18-ezgif.com-video-to-gif-converter.gif" alt="Point Cloud" width="450"/>
 
 3. **Edges Detected on Point Cloud:**
-   ![Edges](/recordings/LIDARDisplay2024-08-1719-58-30-ezgif.com-video-to-gif-converter.gif)
+
+   <img src="/recordings/LIDARDisplay2024-08-1719-58-30-ezgif.com-video-to-gif-converter.gif" alt="Edges" width="450"/>
 
 4. **Reconstructed Environment:**
-   ![Reconstructed Map](/recordings/LIDARDisplay2024-08-1720-00-04-ezgif.com-video-to-gif-converter.gif)
+
+   <img src="/recordings/LIDARDisplay2024-08-1720-00-04-ezgif.com-video-to-gif-converter.gif" alt="Reconstructed Map" width="450"/>
 
 ## Features
 
@@ -31,4 +35,3 @@ Below is an example of the process:
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
